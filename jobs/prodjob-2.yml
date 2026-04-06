@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "2"
+includeSelector: "+{ location: \"TARGET\" name: \"FCT_ORDER_DETAILS\" }"
+name: prodjob
+type: Job
